@@ -1,2 +1,2 @@
-# GPT-vocal-assisstant
-Simple vocal assisstant using spech recognition and GPT Api
+# GPT-vocal-assistant
+Simple vocal assistant using speech recognition and GPT Api
