@@ -5,7 +5,7 @@ Simple vocal assistant using speech recognition and GPT api.
 
 1) Put your openAI API key in the file /OpenAI_Key.txt
 2) Customize your key words and languages below
-3) Start talking with your assisstant
+3) Start talking with your assistant
 
 API management: https://platform.openai.com/usage
 Sounds library: https://pixabay.com/sound-effects/search/notification/
